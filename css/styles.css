@@ -1,15 +1,24 @@
-
-body {
-
-}
+.header {}
 
 .logo {}
 
+.logo-decor {}
+
 .nav {}
+
+.nav-link {}
 
 .comtacts {}
 
+.mail {}
+
+.tel {}
+
 .hero {}
+
+.hero-title {}
+
+.hero-btn {}
 
 .benefits {}
 
@@ -19,19 +28,27 @@ body {
 
 .text {}
 
-.section-title {}
+.our-job {}
+
+.title {}
 
 .our-team {}
 
+.our-team-title {}
+
+.team-list {}
+
+.team-person {}
+
 .posotiom {}
 
-.hidden-title {}
+.footer {}
 
-.button {}
+.address {}
+
+.btn {}
 
 .work-list {}
 
 .work {}
-
-.title {}
 
